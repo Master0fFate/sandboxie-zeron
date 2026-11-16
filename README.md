@@ -49,7 +49,7 @@ A Windows build and owned-process inspection/approved write were exercised local
 
 **Independent, unofficial work—not affiliated with or endorsed by Sandboxie or its developers.** The following earlier preview uses **demo data**, may differ from the current plugin, and includes a “Zeron + Sandboxie” closing that does not imply a partnership:
 
-[Watch the earlier preview (MP4)](assets/demo.mp4)
+https://github.com/user-attachments/assets/89dffda8-75be-4ed2-a5ed-0f63c93d0938
 
 The video is included unchanged. Its closing is not an affiliation or endorsement claim. Music: CC0 drum-and-bass track by **bertsz**, [source on OpenGameArt](https://opengameart.org/content/drum-and-bass).
 
